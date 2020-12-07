@@ -1,5 +1,10 @@
 [
   {
+    "name": "pcweb",
+    "description": "pc端管理平台模板(test)",
+    "valid": true
+  },
+  {
     "name": "platform",
     "description": "pc端管理平台模板",
     "valid": true
