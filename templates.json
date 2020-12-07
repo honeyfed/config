@@ -1,27 +1,32 @@
 [
   {
-    "name": "test",
-    "description": "测试模板",
-    "valid": true
-  },
-  {
-    "name": "pcweb",
+    "name": "platform",
     "description": "pc端管理平台模板",
     "valid": true
   },
   {
-    "name": "h5",
-    "description": "移动端模板",
-    "valid": false
-  },
-  {
-    "name": "activity",
-    "description": "活动页面",
-    "valid": false
-  },
-  {
-    "name": "appweb",
+    "name": "app",
     "description": "pc端应用模板",
-    "valid": false
+    "valid": true
+  },
+  {
+    "name": "mobile",
+    "description": "移动端模板",
+    "valid": true
+  },
+  {
+    "name": "mini-program",
+    "description": "小程序模板",
+    "valid": true
+  },
+  {
+    "name": "vue-component",
+    "description": "vue组件模板",
+    "valid": true
+  },
+  {
+    "name": "library",
+    "description": "库模板",
+    "valid": true
   }
 ]
